@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ea6e6692-4d05-4c5b-9909-51c7dc5f5c2b/resourceGroups/tom-vanduijn-rg/providers/Microsoft.Web/sites/tomwebsitetocsv",
+    "appService.deploySubpath": "."
+}
